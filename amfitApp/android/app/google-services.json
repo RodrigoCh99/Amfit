@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715468288708",
+    "firebase_url": "https://amfitfirebase2.firebaseio.com",
+    "project_id": "amfitfirebase2",
+    "storage_bucket": "amfitfirebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715468288708:android:0e9e0f1f9463123bfd0f91",
+        "android_client_info": {
+          "package_name": "com.amfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715468288708-6ub68917mledqujao114g68ldbnpl8ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYE562KMsgktj3XUio4ml9MIM4snBpuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715468288708-6ub68917mledqujao114g68ldbnpl8ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
